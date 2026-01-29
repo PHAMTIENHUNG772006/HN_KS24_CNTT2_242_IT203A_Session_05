@@ -65,8 +65,6 @@ public class Bai_exam01 {
                     index = sc.nextInt();
                     sc.nextLine();
 
-
-
                     while (true){
 
                         System.out.print("Mời bạn nhập mã sinh viên (B0000000): ");
